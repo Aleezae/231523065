@@ -1,3 +1,4 @@
+1. Karachi
 2.Lahore
 3.Faisalabad
 4.Rawalpindi
@@ -27,4 +28,3 @@
 28.Chiniot
 29.Nawabshah
 30.Kamoke
-
